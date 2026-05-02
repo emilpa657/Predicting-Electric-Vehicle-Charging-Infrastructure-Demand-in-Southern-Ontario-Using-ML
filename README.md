@@ -105,3 +105,7 @@ High demand in urban areas such as Toronto, Mississauga, and Hamilton
 Increasing demand in suburban regions 
 
 Uneven distribution of existing infrastructure 
+
+<img width="1261" height="677" alt="image" src="https://github.com/user-attachments/assets/b93a5599-f2ce-4169-802b-aa740ceab3e5" />
+
+
