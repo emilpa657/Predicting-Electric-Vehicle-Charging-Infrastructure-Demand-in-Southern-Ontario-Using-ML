@@ -45,6 +45,7 @@ Urban and suburban classifications
 
  
 
+<img width="1181" height="761" alt="image" src="https://github.com/user-attachments/assets/c4030ce5-bfbd-4439-9a3f-ac31d2c20094" />
  
 
 # Data Preprocessing 
@@ -71,7 +72,8 @@ Distance to nearest charging station
 
 Traffic density (if available) 
 
- 
+ <img width="1185" height="1025" alt="image" src="https://github.com/user-attachments/assets/27b0c7e0-72bd-4265-b1dd-a296005407ae" />
+
 
 # Model Development 
 
